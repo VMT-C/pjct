@@ -1,1 +1,1 @@
-install all the required extensions and run streamlit code using run streamlit socratic_mathbot.py
+install all the required libraries and run streamlit code using run streamlit socratic_mathbot.py
